@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/font/poppins.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/font/poppins_light.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_cart.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_dashboard.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_forgot_password.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_register.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_reset_password.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/cart_item_custom_row.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/drawer_header.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_faq.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_favourites.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_order_history.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/fragment_profile.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/history_res_item_custom_row.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/order_history_custom_row.xml" value="0.1796875" />
+        <entry key="..\:/Users/JP Kaushik/AndroidStudioProjects/FoodRunner/app/src/main/res/layout/order_placed_dialog.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
